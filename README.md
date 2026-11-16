@@ -15,7 +15,7 @@ Original author: [X.I.U](https://github.com/XIU2) · License: GPL-3.0
 Open the raw file and install it in Tampermonkey / Violentmonkey:
 
 ```
-https://raw.githubusercontent.com/__OWNER__/github-enhanced-high-speed-download/main/GithubEnhanced-High-Speed-Download.user.js
+https://raw.githubusercontent.com/TsangAsuna/github-enhanced-high-speed-download/main/GithubEnhanced-High-Speed-Download.user.js
 ```
 
 > This fork sets its own `@updateURL`. It will **not** be silently replaced by

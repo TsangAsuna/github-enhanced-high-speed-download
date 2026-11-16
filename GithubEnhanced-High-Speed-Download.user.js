@@ -4,7 +4,7 @@
 // @name:zh-TW   Github 增強 - 高速下載
 // @name:ru      Улучшение GitHub – быстрое скачивание
 // @version      2.7.0
-// @author       X.I.U (original) / __OWNER__ (patched fork)
+// @author       X.I.U (original) / TsangAsuna (patched fork)
 // @description  High-speed download of Git Clone/SSH, Release, Raw, Code(ZIP) and other files (Based on public welfare), project list file quick download (☁). Patched: dropdown UI, verified mirrors.
 // @description:zh-CN  高速下载 Git Clone/SSH、Release、Raw、Code(ZIP) 等文件 (公益加速)、项目列表单文件快捷下载 (☁)
 // @description:zh-TW  高速下載 Git Clone/SSH、Release、Raw、Code(ZIP) 等文件 (公益加速)、項目列表單文件快捷下載 (☁)
@@ -23,11 +23,11 @@
 // @sandbox      JavaScript
 // @license      GPL-3.0 License
 // @run-at       document-end
-// @namespace    https://github.com/__OWNER__/github-enhanced-high-speed-download
-// @supportURL   https://github.com/__OWNER__/github-enhanced-high-speed-download/issues
-// @homepageURL  https://github.com/__OWNER__/github-enhanced-high-speed-download
-// @downloadURL  https://raw.githubusercontent.com/__OWNER__/github-enhanced-high-speed-download/main/GithubEnhanced-High-Speed-Download.user.js
-// @updateURL    https://raw.githubusercontent.com/__OWNER__/github-enhanced-high-speed-download/main/GithubEnhanced-High-Speed-Download.user.js
+// @namespace    https://github.com/TsangAsuna/github-enhanced-high-speed-download
+// @supportURL   https://github.com/TsangAsuna/github-enhanced-high-speed-download/issues
+// @homepageURL  https://github.com/TsangAsuna/github-enhanced-high-speed-download
+// @downloadURL  https://raw.githubusercontent.com/TsangAsuna/github-enhanced-high-speed-download/main/GithubEnhanced-High-Speed-Download.user.js
+// @updateURL    https://raw.githubusercontent.com/TsangAsuna/github-enhanced-high-speed-download/main/GithubEnhanced-High-Speed-Download.user.js
 // ==/UserScript==
 
 (function() {
